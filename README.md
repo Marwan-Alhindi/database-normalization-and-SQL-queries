@@ -1,2 +1,1 @@
-# SQL-Programming-and-Nomalisation
-The objective of this is to reinforce what you have learned in the lectures and tute/ lab sessions. Specifically, it covers the advanced concepts in the relational database design, using SQL for querying a relational database and analyse different database models for different applications. 
+In the scope of this project, I successfully identified and rectified errors within a database. Subsequently, I meticulously normalized the database adhering to the principles of the First Normal Form (1NF), Second Normal Form (2NF), and Third Normal Form (3NF). This process enhanced the database's structural integrity and optimized its efficiency.
